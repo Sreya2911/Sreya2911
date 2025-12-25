@@ -29,12 +29,6 @@ I’m fluent in **Python, C, C++, MySQL, Pandas, NumPy, and Matplotlib**, and I 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 🎨 My Tech Palette
-💻 Python | C | C++ | MySQL  
-🎨 HTML | CSS | Pandas | NumPy | Matplotlib  
-⚡ Quick learner, creative thinker, problem solver
-
-
 ## 🌐 Let’s Connect
 
 I’m always open to collaborating, sharing ideas, or simply discussing technology and innovation. If you’d like to connect, you can find me here:  
