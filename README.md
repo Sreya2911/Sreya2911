@@ -76,11 +76,6 @@ Interactive CPU Scheduling Simulator featuring real-time scheduling visualizatio
 
 ---
 
-### Textract
-
-OCR-powered image-to-text extraction application with a clean and intuitive user experience.
-
----
 # Connect
 
 <p align="center">
