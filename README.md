@@ -1,44 +1,117 @@
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=ff69b4&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sreya2911&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
+<h1 align="center">S Sreya</h1>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=ff69b4&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+S+Sreya+%F0%9F%91%8B;B.Tech+CSE+Student;HTML+%26+CSS+%7C+Python+%7C+C%2F%2B%2B;Fast+Learner+%E2%80%A2+Problem+Solver" alt="Typing animation"/>
-</div>
+<p align="center">
+Computer Science & Engineering Student • Full-Stack Developer • AI Enthusiast
+</p>
 
----
-
-## 💫 About Me
-
-Hi there! I’m **S Sreya**, a Computer Science and Engineering student with a passion for creating, learning, and experimenting with technology. I’m a fast learner who enjoys diving into new concepts, challenging my own limits, and turning ideas into reality.  
-
-I’m fluent in **Python, C, C++, MySQL, Pandas, NumPy, and Matplotlib**, and I also enjoy designing clean, functional interfaces using **HTML** and **CSS**. My long-term goal is to grow into a versatile developer, ready to take on exciting opportunities in the tech world while continuously sharpening my skills.
+<p align="center">
+Building scalable software, AI-powered applications, and modern web experiences.
+</p>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# About Me
 
+I'm a Computer Science and Engineering student passionate about building impactful software that combines clean engineering with intuitive user experiences.
 
-## 🌐 Let’s Connect
+My interests lie in **Full-Stack Development**, **Artificial Intelligence**, **Backend Engineering**, and **Software Design**. I enjoy transforming ideas into practical applications while continuously improving my technical and problem-solving skills through projects, hackathons, and self-learning.
 
-I’m always open to collaborating, sharing ideas, or simply discussing technology and innovation. If you’d like to connect, you can find me here:  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreya2911)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssreya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssreya9l30@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yes_sreya/)
-
+Currently exploring scalable architectures, AI integration, and modern web technologies.
 
 ---
 
-✨ *"Code is not just instructions for machines — it’s a canvas for ideas."*
+# Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+# Current Focus
+
+- Full-Stack Development
+- Artificial Intelligence
+- Backend Engineering
+- Data Structures & Algorithms
+- Open Source
+
+---
+
+# Featured Projects
+
+### GuardrailAI
+
+Autonomous regulatory guardrail platform that intercepts AI tool execution using **Model Context Protocol (MCP)** and **Google Gemini**, enabling policy-aware and secure AI workflows.
+
+**Tech Stack:** Node.js • MCP • Gemini • Express • Tailwind CSS
+
+---
+
+### SchedScope
+
+Interactive CPU Scheduling Simulator featuring real-time scheduling visualizations, performance analytics, algorithm comparison, and educational modules.
+
+**Tech Stack:** Python • Flask • JavaScript • Tailwind CSS
+
+---
+
+### Textract
+
+OCR-powered image-to-text extraction application with a clean and intuitive user experience.
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sreya2911&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreya2911&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/Sreya2911">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ssreya">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ssreya9l30@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/yes_sreya">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
